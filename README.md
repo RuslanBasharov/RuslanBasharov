@@ -1,8 +1,10 @@
+<p style="text-align: center;"><img src="https://bogatyr.club/uploads/posts/2023-02/1677454427_bogatyr-club-p-sinyaya-knopka-foni-7.png" alt="" width="90000" height="1" /></p>
 <h1 style="text-align: center;" align="center">Hi there, I'm Ruslan <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="" height="32" /></h1>
+
 <h3 style="text-align: left;" >Я Junior Data Analyst из России, постоянно стремлюсь к профессиональному развитию в области аналитики и анализа данных.Я обладаю аналитическим мышлением и опытом анализа данных, а также активно занимаюсь обучением и развитием, чтобы расширять свои компетенции.</h3>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><img src="https://hover.blog/wp-content/uploads/2022/03/AdobeStock_291895827-scaled.jpeg" alt="" width="400" height="291" /></p>
+<p style="text-align: center;"><img src="https://bogatyr.club/uploads/posts/2023-02/1677454427_bogatyr-club-p-sinyaya-knopka-foni-7.png" alt="" width="90000" height="1" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h3 style="text-align: center;">Languages &amp; Tools \ Языки и инструменты</h3>
@@ -33,6 +35,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
+  <p style="text-align: center;"><img src="https://bogatyr.club/uploads/posts/2023-02/1677454427_bogatyr-club-p-sinyaya-knopka-foni-7.png" alt="" width="90000" height="1" /></p>
 <h3 style="text-align: center;">Образование</h3>
 <p style="text-align: center;">&nbsp;</p>
 <ul style="text-align: center;">
