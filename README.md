@@ -1,6 +1,10 @@
 <h1 style="text-align: center;" align="center">Hi there, I'm Ruslan <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="" height="32" /></h1>
 <h3 style="text-align: center;" align="center">Я Junior Data Analyst из России, постоянно стремлюсь к профессиональному развитию в области аналитики и анализа данных.Я обладаю аналитическим мышлением и опытом анализа данных, а также активно занимаюсь обучением и развитием, чтобы расширять свои компетенции.</h3>
-<p style="text-align: center;"><img src=" https://raw.githubusercontent.com/RuslanBasharov/img/main/vizual-data-analytics.png?token=GHSAT0AAAAAACLSNWP7GCAVIHX3UY3TG3OSZL5YEWA" alt="" width="500" height="274" />&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="https://hover.blog/wp-content/uploads/2022/03/AdobeStock_291895827-scaled.jpeg" alt="" width="400" height="291" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <h3 style="text-align: center;">Languages &amp; Tools \ Языки и инструменты</h3>
 <div class="skills">
 <div class="skill" style="text-align: center;">&nbsp;</div>
