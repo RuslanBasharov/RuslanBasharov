@@ -1,4 +1,4 @@
-```html
+html
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -53,4 +53,4 @@
   </div>
 </body>
 </html>
-```
+
