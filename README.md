@@ -1,20 +1,56 @@
-<h3>Профессиональный профиль</h3>
+```html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Профиль GitHub</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+    }
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 20px;
+    }
+    .skill {
+      padding: 10px 20px;
+      background-color: #f2f2f2;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Профиль</h2>
+  <p>Привет! Я аналитик данных из России, постоянно стремлюсь к профессиональному развитию в области аналитики и анализа данных. Мои навыки включают работу с SQL, Python, а также опыт работы с базами данных, включая СУБД PostgreSQL. Я обладаю аналитическим мышлением и опытом анализа данных, а также активно занимаюсь обучением и развитием, чтобы расширять свои компетенции.</p>
 
-<p>Моя карьера началась в июне 2021 года в компании "Газпром нефть, ПАО", где я занимал должность оператора. В течение этого периода я успешно выполнял ряд ответственных обязанностей, включая мониторинг и анализ технических данных, выявление и устранение технических проблем, а также выбор и установку нового оборудования. Мой опыт также включает тестирование и внедрение модернизаций с целью повышения эффективности и надежности системы.</p>
-
-<h3>Ключевые навыки</h3>
-<p>В течение моей карьеры я развил следующие ключевые навыки:</p>
-<ul>
-  <li>SQL</li>
-  <li>Python</li>
-  <li>Работа с базами данных, включая опыт работы с СУБД PostgreSQL</li>
-  <li>Аналитическое мышление</li>
-  <li>Анализ данных</li>
-  <li>MS Excel</li>
-  <li>MS PowerPoint</li>
-  <li>Tableau</li>
-  <li>Yandex DataLens</li>
-  <li>Сбор и анализ информации</li>
-  <li>Английский язык</li>
-</ul>
-<p>Я постоянно стремлюсь к обучению и развитию, чтобы углублять свои знания и навыки в области аналитики данных. Мой опыт и компетенции позволяют мне успешно анализировать данные, выявлять закономерности и принимать обоснованные решения на основе данных.</p>
+  <div class="skills">
+    <div class="skill">SQL</div>
+    <div class="skill">Python</div>
+    <div class="skill">СУБД</div>
+    <div class="skill">PostgreSQL</div>
+    <div class="skill">Работа с базами данных</div>
+    <div class="skill">Базы данных</div>
+    <div class="skill">Аналитическое мышление</div>
+    <div class="skill">Анализ данных</div>
+    <div class="skill">Английский язык</div>
+    <div class="skill">Обучение и развитие</div>
+    <div class="skill">Аналитика</div>
+    <div class="skill">MS PowerPoint</div>
+    <div class="skill">Сбор и анализ информации</div>
+    <div class="skill">MS Excel</div>
+    <div class="skill">Tableau</div>
+    <div class="skill">Yandex DataLens</div>
+  </div>
+</body>
+</html>
+```
