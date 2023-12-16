@@ -1,3 +1,4 @@
+<p style="text-align: center;"><img src="https://media3.giphy.com/media/xThuWtNFKZWG6fUFe8/giphy.gif" alt="" width="1010" height="203" /></p>
 <p style="text-align: center;"><img src="https://bogatyr.club/uploads/posts/2023-02/1677454427_bogatyr-club-p-sinyaya-knopka-foni-7.png" alt="" width="90000" height="1" /></p>
 <h1 style="text-align: center;" align="center">Hi there, I'm Ruslan <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="" height="32" /></h1>
 
