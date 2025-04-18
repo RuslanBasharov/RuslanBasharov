@@ -2,7 +2,6 @@
 <p style="text-align: center;"><img src="https://bogatyr.club/uploads/posts/2023-02/1677454427_bogatyr-club-p-sinyaya-knopka-foni-7.png" alt="" width="90000" height="1" /></p>
 <h1 style="text-align: center;" align="center">Hi there, I'm Ruslan <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="" height="32" /></h1>
 
-<h3 style="text-align: left;" >Я Junior Data Analyst из России, постоянно стремлюсь к профессиональному развитию в области аналитики и анализа данных.Я обладаю аналитическим мышлением и опытом анализа данных, а также активно занимаюсь обучением и развитием, чтобы расширять свои компетенции.</h3>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p style="text-align: center;"><img src="https://bogatyr.club/uploads/posts/2023-02/1677454427_bogatyr-club-p-sinyaya-knopka-foni-7.png" alt="" width="90000" height="1" /></p>
